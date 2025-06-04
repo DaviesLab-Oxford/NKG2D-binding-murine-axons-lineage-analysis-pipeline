@@ -2,6 +2,9 @@
 
 We share a pipeline for semi-automatically quantifying NKG2D binding on axons by using scripts based in Matlab and Fiji. It can be applied to other experiments for analysing the binding of a protein to axons of neurons.
 
+We would like to acknowledge and thank Dr Demetrio Labate for the creation of the Dimensionality Ratio method contained within the SomaExtration package:
+Kayasandik CB, Labate D. Improved detection of soma location and morphology in fluorescence microscopy images of neurons. J Neurosci Methods. 2016 Dec 1;274:61-70. doi: 10.1016/j.jneumeth.2016.09.007. 
+
 Before running the pipeline, please see 'MATLAB online_installation.PDF' for installing the package (SomaExtraction-master) on Matlab (online or desktop version). 
 
 The test images (Eample_Test images.zip) can be downloaded from 'files'.
